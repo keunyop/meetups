@@ -8,4 +8,4 @@
 
 ### [UDC 2019 블록체인 강좌(2019-08-06)](/chapters/blockchain/udc2019_20190806.md)
 
-### [D'APP Live(2019-08-10)](/chapters/blockchain/udc2019_20190806.md)
+### [D'APP Live(2019-08-10)](/chapters/blockchain/dapplive_20190810.md)
